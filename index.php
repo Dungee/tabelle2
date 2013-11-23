@@ -7,8 +7,8 @@
 </head> 
 <body>
 <table>
-<thead>HTML 1.0 strict</thead>
-<tr><tr>
+<thead>
+<tr>HTML 1.0 strict</tr>
 	<th  class ="heading" colspan="4">
 		<h1>HTML 1.0 (strict)</h1>
 	
@@ -19,6 +19,7 @@
 	<th title="Inline- oder Blockelement?">Inline- oder Blockelement?</th>
 	<th title="Semantisches HTML?">Semantisches HTML?</th>
 </tr>
+</thead>
 <tr>
 	<td class="tag">a</td>
 	<td>Verweis (Hyperlink) und Anker für Verweise</td>
