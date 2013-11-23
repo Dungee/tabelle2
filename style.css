@@ -1,0 +1,24 @@
+a:link {text-decoration: none;}
+caption {text-align: left; padding-bottom: 12px; font-size: 120%;
+font-family: 'Liberation Sans', Arial, Helvetica, sans-serif;"
+}
+table {
+   border: 1px solid grey;
+   border-collapse:collapse;
+      
+}
+th, td {
+   border: 2px solid gray;
+   padding: 3px;
+   font-family: 'Liberation Sans', Arial, Helvetica, sans-serif;
+   font-size: 90%;
+   text-align: center;
+   vertical-align: top;
+}
+th {
+   background-color: #DDD;
+   font-weight: bold;
+}
+.tag {background-color: #ccffff; font-weight: 600;}
+.heading {background-color: #FFEFDB;}
+h1 {font-size: 130%;}
