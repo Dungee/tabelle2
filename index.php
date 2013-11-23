@@ -8,10 +8,8 @@
 <body>
 <table>
 <thead>
-<tr>HTML 1.0 strict</tr>
 	<th  class ="heading" colspan="4">
 		<h1>HTML 1.0 (strict)</h1>
-	
 	</th>
 <tr>
 	<th title="Element-Tag">Element-Tag</th>
