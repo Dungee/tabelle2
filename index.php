@@ -13,7 +13,7 @@
 		<h1>HTML 1.0 (strict)</h1>
 	
 	</th>
-</tr>
+<tr>
 	<th title="Element-Tag">Element-Tag</th>
 	<th title="Elementbeschreibung">Elementbeschreibung</th>
 	<th title="Inline- oder Blockelement?">Inline- oder Blockelement?</th>
