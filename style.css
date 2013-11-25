@@ -4,7 +4,7 @@ text-align: left; padding-bottom: 12px; font-size: 120%;
 font-family: 'Liberation Sans', Arial, Helvetica, sans-serif;
 }
 table {
-   border: 1px solid grey;
+   border: 1px solid gray;
    border-collapse:collapse;   
 }
 th, td {
