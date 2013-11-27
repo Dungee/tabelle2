@@ -1,14 +1,16 @@
-a:link {text-decoration: none;}
+h1 {text-align: center;
+	font-size: 130%;
+	}
 caption {
 text-align: left; padding-bottom: 12px; font-size: 120%;
 font-family: 'Liberation Sans', Arial, Helvetica, sans-serif;
 }
 table {
-   border: 1px solid gray;
-   border-collapse:collapse;   
+   border: 0px solid gray;
+   border-collapse:collapse;
 }
 th, td {
-   border: 2px solid gray;
+   border: 2px solid gray; 
    padding: 3px;
    font-family: 'Liberation Sans', Arial, Helvetica, sans-serif;
    font-size: 90%;
@@ -16,8 +18,16 @@ th, td {
    vertical-align: top;
 }
 th {
-   background-color: #DDD;
+	
+   background-color: #fce3c5;
    font-weight: bold;
+   font-size: 95%;
+   height: 30px;
 }
-.tag {background-color: #ccffff; font-weight: 600;}
-.heading {background-color: #FFEFDB; font-size: 130%;}
+.tag {font-weight: 600;}
+.heading {
+	background-color: #f0f0f0; 
+	height: 30px;
+	text-align: left;
+	font-size: 72%;
+	}
